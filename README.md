@@ -1,2 +1,2 @@
 # WiFi Teeter-Totter
-Projects for oversample WiFi,working in Gnuradio platform.
+Projects for oversample Wi-Fi,working in Gnuradio platform.
